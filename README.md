@@ -2,4 +2,4 @@
 <p>Projeto Discover da  Rocketseat - em construção.</p>
 <br><br>
 
-<img src="Finances.gif" height="425">
+<img src="Finances.gif" height="500">

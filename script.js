@@ -103,7 +103,7 @@ const DOM = {
             <td>
                 <img onclick="Transaction.remove(${index})"  src="./assets/minus.svg" alt="Remover transação">
             </td>
-            `
+                        `
 
         return html
     },
